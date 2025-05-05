@@ -1,5 +1,5 @@
-# Hi 👋, I'm Althaf:
-I'm currently pursuing a B.Tech in Electrical and Electronics Engineering at the College of Engineering Trivandrum. I'm a passionate developer with hands-on experience in Flutter, Python, and AI/ML. My interests lie at the intersection of electrical systems and intelligent software — I love exploring how hardware and software can work together to solve real-world problems. Whether it's building sleek, high-performance mobile apps or applying machine learning to embedded systems, I'm always eager to innovate, learn, and contribute to impactful projects.
+# Hi 👋, I'm Althaf
+I'm pursuing a B.Tech in Electrical and Electronics Engineering at the College of Engineering Trivandrum. I'm a passionate developer with hands-on experience in Flutter, Python, and AI/ML. My interests lie at the intersection of electrical systems and intelligent software—I love exploring how hardware and software can work together to solve real-world problems. Whether it's building sleek, high-performance mobile apps or applying machine learning to embedded systems, I'm always eager to innovate, learn, and contribute to impactful projects.
 
 
 ## 🌐 Socials:
